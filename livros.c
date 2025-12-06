@@ -33,7 +33,7 @@ int main() {
 
     do {
         printf("\n=================================\n");
-        printf("   SISTEMA DE GERENCIAMENTO DE LIVROS\n");
+        printf("SISTEMA DE GERENCIAMENTO DE LIVROS\n");
         printf("==================================\n");
         printf("1 - Cadastrar livros\n");
         printf("2 - Imprimir todos os livros\n");
@@ -222,3 +222,4 @@ void ordenarLivros(struct Livro acervo[], int tamanho) {
         }
     }
 }
+
